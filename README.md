@@ -45,7 +45,7 @@ cd Minecraft
 ```
 **notice:** if you have a problem with opengl then you may try:
  - restarting your device
- - clean gardle
+ - clean gradle
 
 5. Launch an agent:
 Running a Python agent:
